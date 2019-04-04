@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Creating with GitBash by Peter
 Hey hey hey
+=======
+
+Creating with Tortoise by Peter!
+Creating with GitBash by Peter
+
+>>>>>>> 00297b5d41c848eb4e091b19709be5087c9d9ee7
